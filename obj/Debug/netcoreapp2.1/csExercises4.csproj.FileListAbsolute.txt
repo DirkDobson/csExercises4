@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#practice/csExercises4/bin/Debug/netcoreapp2.1/csExercises4.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csExercises4/bin/Debug/netcoreapp2.1/csExercises4.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csExercises4/bin/Debug/netcoreapp2.1/csExercises4.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csExercises4/bin/Debug/netcoreapp2.1/csExercises4.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/csExercises4/bin/Debug/netcoreapp2.1/csExercises4.pdb
+/Users/dirkvancouver/Desktop/Projects/c#practice/csExercises4/obj/Debug/netcoreapp2.1/csExercises4.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csExercises4/obj/Debug/netcoreapp2.1/csExercises4.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csExercises4/obj/Debug/netcoreapp2.1/csExercises4.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csExercises4/obj/Debug/netcoreapp2.1/csExercises4.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#practice/csExercises4/obj/Debug/netcoreapp2.1/csExercises4.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/csExercises4/obj/Debug/netcoreapp2.1/csExercises4.pdb

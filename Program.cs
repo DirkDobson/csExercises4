@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace csExercises4
 {
@@ -6,7 +7,9 @@ namespace csExercises4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var path = @":\..\..\..\foobar\bar.txt";
+
+            Console.WriteLine(File.ReadAllText(path));
         }
     }
 }
