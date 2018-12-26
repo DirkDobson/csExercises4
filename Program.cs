@@ -7,9 +7,9 @@ namespace csExercises4
     {
         static void Main(string[] args)
         {
-            var path = @":\..\..\..\foobar\bar.txt";
+            var path = @"/Users/dirkvancouver/foobar/bar.txt";
 
-            Console.WriteLine(File.ReadAllText(path));
+            Console.WriteLine(File.Exists(path) ? "It exists." : "It does not exist.");;
         }
     }
 }
