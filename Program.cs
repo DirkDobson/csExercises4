@@ -15,11 +15,11 @@ namespace csExercises4
             System.Console.WriteLine(words.Length);
             
             var total = words[0];
-            for(var i = 0; i <= words.Length - 1; i++)
+            foreach(var word in words)
             {
-                if(words[i].Length > total.Length)
+                if(word.Length > total.Length)
                 {
-                    total = words[i];
+                    total = word;
                 }
             }
             System.Console.WriteLine(total);
